@@ -1,4 +1,4 @@
-# Boyxir ![Build Status](https://travis-ci.org/lucasalveslm/boyxir.svg?branch=master)
+# Boyxir [![Build Status](https://travis-ci.org/lucasalveslm/boyxir.svg?branch=master)](https://travis-ci.org/lucasalveslm/boyxir)
 
 **TODO: Add description**
 
