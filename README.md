@@ -1,5 +1,8 @@
 # Boyxir [![Build Status](https://travis-ci.org/lucasalveslm/boyxir.svg?branch=master)](https://travis-ci.org/lucasalveslm/boyxir)
 
+## Documentation
+The documentation of Boyxir can be accessed through [lucasalveslm.github.io/boyxir](https://lucasalveslm.github.io/boyxir/)
+
 **TODO: Add description**
 
 ## Installation
